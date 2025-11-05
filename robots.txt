@@ -8,6 +8,3 @@ Disallow: /tilda/cart*
 Disallow: /tilda/product*
 Disallow: /tilda/event*
 Disallow:
-
-
-Sitemap: http://project13785567.tilda.ws/sitemap.xml
